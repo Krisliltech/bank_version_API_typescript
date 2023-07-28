@@ -20,6 +20,11 @@ install project dependencies
 npm install
 ```
 
+compile Typescript files to Javascript
+```bash
+npm run build
+```
+
 open another terminal, and run the project
 ```bash
 npm run start
